@@ -8,7 +8,7 @@
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="https://misn0147.github.io/react-portfolio/" target="_blank">
+<a href="https://misn0147.github.io/Melissa-Natoli/" target="_blank">
 <img src="https://img.shields.io/badge/My_Portfolio-FF5722?style=for-the-badge&logo=rss&logoColor=white" />
 </a>
 
