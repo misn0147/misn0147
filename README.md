@@ -1,6 +1,6 @@
 ### Hi there 👋
 ![Melissa's GitHub stats](https://github-readme-stats.vercel.app/api?username=misn0147&theme=gotham&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=misn0147&count_private=true&theme=gotham&layout=compact&custom_title=Top%20Languages)](https://github.com/misn0147/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=misn0147&count_private=true&theme=gotham&layout=compact&custom_title=Top%20Languages&count_private=true)](https://github.com/misn0147/github-readme-stats)
 
 
 ### Let's connect
